@@ -152,6 +152,8 @@
     <Compile Include="..\..\..\..\Desktop\EC301_script\Esapi\MainViewModel.cs">
       <Link>ViewModels\MainViewModel.cs</Link>
     </Compile>
+    <Compile Include="ViewModels\CTDateConstraint.cs" />
+    <Compile Include="ViewModels\PlanConstraint.cs" />
     <Compile Include="Views\MainView.xaml.cs">
       <DependentUpon>MainView.xaml</DependentUpon>
     </Compile>
